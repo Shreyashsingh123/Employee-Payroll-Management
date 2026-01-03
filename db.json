@@ -1,0 +1,66 @@
+{
+  "employees": [
+    {
+      "id": "a4e7",
+      "name": "Sarthak Singh",
+      "profile": "../Assets/profile1.jpg",
+      "gender": "male",
+      "department": [
+        "HR"
+      ],
+      "salary": "40000",
+      "startDate": "14 Aug 2013",
+      "notes": "ece"
+    },
+    {
+      "id": "5ad4",
+      "name": "Harshit Singh",
+      "profile": "../Assets/profile3.jpg",
+      "gender": "male",
+      "department": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "14 Jul 2011",
+      "notes": "ecwde"
+    },
+    {
+      "id": "efe2",
+      "name": "Shreyash Singh",
+      "profile": "../Assets/profile2.jpg",
+      "gender": "Male",
+      "department": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "17 Jul 2012",
+      "notes": ""
+    },
+    {
+      "id": "7e46",
+      "name": "Sachin Singh",
+      "profile": "../Assets/profile2.jpg",
+      "gender": "Male",
+      "department": [
+        "HR",
+        "Sales"
+      ],
+      "salary": "30000",
+      "startDate": "16 Sept 2012",
+      "notes": "cewcew"
+    },
+    {
+      "id": "0e7e",
+      "name": "Shivani Singh",
+      "profile": "../Assets/profile1.jpg",
+      "gender": "female",
+      "department": [
+        "Finance",
+        "Engineer"
+      ],
+      "salary": "40000",
+      "startDate": "14 Sept 2012",
+      "notes": "wqdxw"
+    }
+  ]
+}
